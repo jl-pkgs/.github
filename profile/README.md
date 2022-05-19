@@ -13,5 +13,8 @@
 
 ## TODO: 
 
-添加路径分析的相关函数：
-- https://github.com/jl-spatial/SpatioTemporalCluster.jl
+1. `SpatioTemporalCluster.jl`: <https://github.com/jl-spatial/SpatioTemporalCluster.jl>
+
+    添加路径分析的相关函数：
+    - 面图层 -> 点图层 (+属性数据) -> 线图层
+    - 线图层变化规律分析
