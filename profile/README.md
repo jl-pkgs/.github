@@ -1,4 +1,4 @@
-## Hi there 👋
+## My Julia Packages
 
 <!--
 
@@ -11,6 +11,12 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## TODO: 
+## 1. Published
+
+- `Ipaper.jl`: <https://github.com/jl-spatial/Ipaper.jl>
+- `NetCDFTools.jl`: <https://github.com/jl-spatial/NetCDFTools.jl>
+- `HydroTools.jl`: <https://github.com/jl-spatial/HydroTools.jl>
+
+## 2. WIP
 
 1. `SpatioTemporalCluster.jl`: <https://github.com/jl-spatial/SpatioTemporalCluster.jl>
