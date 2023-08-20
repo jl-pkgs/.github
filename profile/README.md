@@ -14,6 +14,7 @@
 ## 1. Published
 
 - `Ipaper.jl`: <https://github.com/jl-spatial/Ipaper.jl>
+- `RTableTools.jl`: <https://github.com/jl-spatial/RTableTools.jl>
 - `NetCDFTools.jl`: <https://github.com/jl-spatial/NetCDFTools.jl>
 - `HydroTools.jl`: <https://github.com/jl-spatial/HydroTools.jl>
 
