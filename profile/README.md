@@ -11,12 +11,16 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 1. Published
+| Package                                           | Keywords    | GitHub Action                                                | Code coverage                                                | Published |
+| ------------------------------------------------- | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------- |
+| [Ipaper.jl](https://github.com/jl-pkgs/Ipaper.jl) | R base in Julia | [![CI](https://github.com/jl-pkgs/Ipaper.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/Ipaper.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/Ipaper.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/Ipaper.jl) | Yes       |
+| [NetCDFTools.jl](https://github.com/jl-pkgs/NetCDFTools.jl) | NetCDFTools and CMIP6 data tidy | [![CI](https://github.com/jl-pkgs/NetCDFTools.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/NetCDFTools.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/NetCDFTools.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/NetCDFTools.jl) | Yes       |
+| [HydroTools.jl](https://github.com/jl-pkgs/HydroTools.jl) | HydroTools | [![CI](https://github.com/jl-pkgs/HydroTools.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/HydroTools.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/HydroTools.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/HydroTools.jl) | Yes       |
+| [SPEI.jl](https://github.com/jl-pkgs/SPEI.jl) | SPEI dought index | [![CI](https://github.com/jl-pkgs/SPEI.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/SPEI.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/SPEI.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/SPEI.jl) | No       |
+| [BEPS.jl](https://github.com/CUG-hydro/BEPS.jl) | BEPS ET & GPP model | [![CI](https://github.com/CUG-hydro/BEPS.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/CUG-hydro/BEPS.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/CUG-hydro/BEPS.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/CUG-hydro/BEPS.jl) | No       |
+| [RTableTools.jl](https://github.com/jl-pkgs/RTableTools.jl) | Tidy data.table | [![CI](https://github.com/jl-pkgs/RTableTools.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/RTableTools.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/RTableTools.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/RTableTools.jl) | Yes       |
+| [MakieLayers.jl](https://github.com/jl-pkgs/MakieLayers.jl) | Makie Layers | [![CI](https://github.com/jl-pkgs/MakieLayers.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/MakieLayers.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/MakieLayers.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/MakieLayers.jl) | No      |
 
-- `Ipaper.jl`: <https://github.com/jl-spatial/Ipaper.jl>
-- `RTableTools.jl`: <https://github.com/jl-spatial/RTableTools.jl>
-- `NetCDFTools.jl`: <https://github.com/jl-spatial/NetCDFTools.jl>
-- `HydroTools.jl`: <https://github.com/jl-spatial/HydroTools.jl>
 
 ## 2. WIP
 
