@@ -20,8 +20,5 @@
 | [BEPS.jl](https://github.com/CUG-hydro/BEPS.jl) | BEPS ET & GPP model | [![CI](https://github.com/CUG-hydro/BEPS.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/CUG-hydro/BEPS.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/CUG-hydro/BEPS.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/CUG-hydro/BEPS.jl) | No       |
 | [RTableTools.jl](https://github.com/jl-pkgs/RTableTools.jl) | Tidy data.table | [![CI](https://github.com/jl-pkgs/RTableTools.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/RTableTools.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/RTableTools.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/RTableTools.jl) | Yes       |
 | [MakieLayers.jl](https://github.com/jl-pkgs/MakieLayers.jl) | Makie Layers: `imagesc`, `ncl_colors` | [![CI](https://github.com/jl-pkgs/MakieLayers.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/jl-pkgs/MakieLayers.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/jl-pkgs/MakieLayers.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/jl-pkgs/MakieLayers.jl) | No      |
-
-
-## 2. WIP
-
-1. `SpatioTemporalCluster.jl`: <https://github.com/jl-spatial/SpatioTemporalCluster.jl>
+| [VegCurveFit.jl](https://github.com/eco-hydro/VegCurveFit.jl) | VegCurveFit | [![CI](https://github.com/eco-hydro/VegCurveFit.jl/actions/workflows/CI.yml/badge.svg)](https://github.com/eco-hydro/VegCurveFit.jl/actions/workflows/CI.yml) | [![Codecov](https://codecov.io/gh/eco-hydro/VegCurveFit.jl/branch/master/graph/badge.svg)](https://codecov.io/gh/eco-hydro/VegCurveFit.jl) | No      |
+| [SpatioTemporalCluster.jl](https://github.com/CUG-hydro/SpatioTemporalCluster.jl) | SpatioTemporalCluster | [![CI](https://github.com/CUG-hydro/SpatioTemporalCluster.jl/actions/workflows/ci.yml/badge.svg)](https://github.com/CUG-hydro/SpatioTemporalCluster.jl/actions/workflows/ci.yml) | [![Codecov](https://codecov.io/gh/CUG-hydro/SpatioTemporalCluster.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/CUG-hydro/SpatioTemporalCluster.jl) | No      |
